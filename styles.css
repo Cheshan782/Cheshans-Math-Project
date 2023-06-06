@@ -17,3 +17,6 @@ img{
 .card:hover{
     transform: translateY(-10px)
 }
+.card-text{
+    text-align: left;
+}
