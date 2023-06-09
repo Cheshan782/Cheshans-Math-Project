@@ -1,0 +1,36 @@
+body{
+    background-color: #1c1c1c;
+}
+.Housing{
+    padding-left: 35%;
+    padding-right: 35%;
+}
+.PersonHeader{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+div{
+    height: 50vh;
+}
+p{
+    color: white;
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    color: white;
+    padding-top: 10%;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+hr{
+    color: white;
+    height: 50px;
+}
