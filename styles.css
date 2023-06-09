@@ -3,6 +3,7 @@ body {
 }
 h5 {
   font-family: "Kanit", sans-serif;
+  color: black;
 }
 h1{
     text-align: center;
@@ -42,7 +43,7 @@ img {
   text-align: left;
 }
 .col {
-  padding: 30px;
+  padding: 0px;
 }
 .Housing{
     padding-left: 35%;
