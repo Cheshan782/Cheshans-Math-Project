@@ -1,20 +1,30 @@
 body{
-    background-color: #1c1c1c;
+    background-color: orange;
+    overflow-x: hidden;
 }
 .Housing{
-    padding-left: 35%;
-    padding-right: 35%;
+    background-image: url(./img/pexels-photo-2102587.jpeg);
+    background-repeat: no-repeat;
 }
 .PersonHeader{
     padding-left: 15%;
     padding-right: 15%;
+    background-image: url(./img/JaneBackground.jpeg);
+    color: #1c1c1c;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 div{
     height: 50vh;
 }
-p{
+.TopDescript{
+    text-align: center;
     color: white;
+}
+p{
+    color: black;
     font-size: 30px;
+    margin: auto;
 }
 h1{
     text-align: center;
@@ -24,13 +34,29 @@ h1{
 }
 h2{
     text-align: center;
-    color: white;
+    color: black;
 }
 img {
     display: block;
     margin: 0 auto;
+    height: 20vh;
 }
 hr{
-    color: white;
-    height: 50px;
+    border-top: 5px solid black;
+}
+.row{
+    display: flex;
+}
+.col{
+    margin: auto;
+}
+.IconSide{
+    padding-top: 5%;
+}
+.TextSide{
+    padding-top: 4%;
+    padding-right: 2%;
+}
+.Transportation{
+    font-size: 24px;
 }
