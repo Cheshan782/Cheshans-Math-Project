@@ -1,62 +1,43 @@
-body{
-    background-color: orange;
-    overflow-x: hidden;
+.PersonHeader {
+  padding-left: 15%;
+  padding-right: 15%;
 }
-.Housing{
-    background-image: url(./img/pexels-photo-2102587.jpeg);
-    background-repeat: no-repeat;
+div {
+  height: 50vh;
 }
-.PersonHeader{
-    padding-left: 15%;
-    padding-right: 15%;
-    background-image: url(./img/JaneBackground.jpeg);
-    color: #1c1c1c;
-    background-repeat: no-repeat;
-    background-size: cover;
+.TopDescript {
+  text-align: center;
 }
-div{
-    height: 50vh;
+p {
+  font-size: 30px;
+  margin: auto;
 }
-.TopDescript{
-    text-align: center;
-    color: white;
+h1 {
+  text-align: center;
+  font-size: 80px;
+  padding-top: 10%;
 }
-p{
-    color: black;
-    font-size: 30px;
-    margin: auto;
-}
-h1{
-    text-align: center;
-    font-size: 80px;
-    color: white;
-    padding-top: 10%;
-}
-h2{
-    text-align: center;
-    color: black;
+h2 {
+  text-align: center;
 }
 img {
-    display: block;
-    margin: 0 auto;
-    height: 20vh;
+  display: block;
+  margin: 0 auto;
+  height: 20vh;
 }
-hr{
-    border-top: 5px solid black;
+hr {
+  border-top: 5px solid black;
 }
-.row{
-    display: flex;
+.row {
+  display: flex;
 }
-.col{
-    margin: auto;
+.col {
+  margin: auto;
 }
-.IconSide{
-    padding-top: 5%;
+.IconSide {
+  padding-top: 5%;
 }
-.TextSide{
-    padding-top: 4%;
-    padding-right: 2%;
-}
-.Transportation{
-    font-size: 24px;
+.TextSide {
+  padding-top: 4%;
+  padding-right: 2%;
 }
